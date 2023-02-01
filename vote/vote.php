@@ -1,5 +1,7 @@
 <html>
-<head><title>Results of the Vote</title></head>
+<head>
+<title>Results of the Vote</title>
+</head>
 <body bgcolor="#CCFFCC" text="#330099">
 <?php
 # Uncomment the following two lines to see errors in PHP.
